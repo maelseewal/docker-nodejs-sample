@@ -24,5 +24,5 @@
 2. Gib `docker init` ein, um neues Docker-Projekt zu initialisieren.
 3. Gib die nötigen informationen die es brauch an.
 4. Gib den Befehl `docker copmose up --build` ein und das Program zu starten.
-5. Danach gibt es verschiedene möcglichkeiten um docker zu öffnen muss man V drücken.
+5. Danach gibt es verschiedene Möglichkeiten um docker zu öffnen muss man V drücken.
 6. In Docker muss man dann auf den Port undter dem Projektamen klicken um es ansehen zu können.
